@@ -4,12 +4,6 @@ $(function(){
 	{
 		this.obj = param.obj,
 		this.context = this.obj[0].getContext('2d');
-
-		// canvas.fillStyle = '#FF0000';
-		// canvas.fillRect(40,40,100,100);	
-
-		// canvas.fillStyle = '#FFF000';
-		// canvas.strokeRect(0,0,50,50);
 	}
 
 
